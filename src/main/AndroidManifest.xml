@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.alipay">
+    package="com.joy.alipay">
 
     <application
         android:allowBackup="true"
